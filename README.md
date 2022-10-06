@@ -14,8 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/akshaypatel99/product-card-component](https://github.com/akshaypatel99/product-card-component)
+- Live Site URL: [https://akshaypatel99.github.io/product-card-component/](https://akshaypatel99.github.io/product-card-component/)
 
 ## My process
 
