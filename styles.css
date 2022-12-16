@@ -102,10 +102,6 @@ svg {
   font-size: 2.25em;
 }
 
-.original-price {
-  text-decoration: line-through;
-}
-
 .button {
   background-color: var(--dark-cyan);
   color: var(--white);
